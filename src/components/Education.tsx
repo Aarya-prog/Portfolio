@@ -20,7 +20,7 @@ export default function Education() {
       institution: "Institute of Management Studies",
       location: "Ghaziabad, Uttar Pradesh",
       period: "2022 - 2025",
-      description: "Comprehensive foundation in computer science, programming, and software development. Graduated with distinction. Secured 91.2%",
+      description: "Comprehensive foundation in computer science, programming, and software development. Graduated with distinction. Secured 81.2%",
     },
     {
       degree: "Higher Secondary (XII)",
